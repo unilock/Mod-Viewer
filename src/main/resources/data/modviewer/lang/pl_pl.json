@@ -1,0 +1,22 @@
+{
+	"text.modviewer.ui.grid.mod.environment": "Środowisko: %s",
+	"text.modviewer.ui.grid.mod.environment.client": "Llient",
+	"text.modviewer.ui.grid.mod.environment.server": "Serwer",
+	"text.modviewer.ui.grid.mod.environment.universal": "Uniwersalne",
+	"text.modviewer.ui.grid.mod.id": "Mod ID: %s",
+	"text.modviewer.ui.grid.mod.license": "Licencja: %s",
+	"text.modviewer.ui.grid.mod.version": "Wersja: %s",
+	"text.modviewer.ui.title": "Mod Viewer (%d modów)",
+	"text.modviewer.ui.toolbar.toggle_libraries": "Widoczność bibliotek",
+	"text.modviewer.ui.toolbar.toggle_libraries.hiding": "Schowane",
+	"text.modviewer.ui.toolbar.toggle_libraries.showing": "Pokazane",
+	"text.modviewer.ui.view.authors": "Autorzy",
+	"text.modviewer.ui.view.breaks": "Psuje",
+	"text.modviewer.ui.view.conflicts": "Konflikt",
+	"text.modviewer.ui.view.depends": "Zależy",
+	"text.modviewer.ui.view.description": "Opis",
+	"text.modviewer.ui.view.error": "Błąd",
+	"text.modviewer.ui.view.icon": "Ikona",
+	"text.modviewer.ui.view.recommends": "Poleca",
+	"text.modviewer.ui.view.suggests": "Sugeruje"
+}
