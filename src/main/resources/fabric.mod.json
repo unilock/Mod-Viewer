@@ -8,9 +8,10 @@
 		"haykam821"
 	],
 	"contact": {
-		"homepage": "https://github.com/haykam821/Mod-Viewer#readme",
+		"sources": "https://github.com/haykam821/Mod-Viewer",
 		"issues": "https://github.com/haykam821/Mod-Viewer/issues"
 	},
+	"environment": "*",
 	"entrypoints": {
 		"main": [
 			"io.github.haykam821.modviewer.ModViewer"
@@ -19,11 +20,8 @@
 	"license": "MIT",
 	"icon": "assets/modviewer/icon.png",
 	"depends": {
-		"fabricloader": ">=0.4.0",
-		"java": ">=17",
-		"fabric": "*",
-		"sgui": "*",
-		"server_translations_api": "*",
-		"fabric-permissions-api-v0": "*"
+		"fabricloader": "*",
+		"minecraft": ">=1.20.4",
+		"fabric-api": "*"
 	}
 }
