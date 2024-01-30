@@ -1,4 +1,5 @@
 {
+	"text.modviewer.command.no_viewable_mods": "Nie byłoby widać żadnych modów",
 	"text.modviewer.ui.grid.mod.environment": "Środowisko: %s",
 	"text.modviewer.ui.grid.mod.environment.client": "Llient",
 	"text.modviewer.ui.grid.mod.environment.server": "Serwer",
